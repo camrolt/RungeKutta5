@@ -1,4 +1,4 @@
-function [F] = RungeKutta5(funct, tspan, f0) %call RungeKutta5(double, double[x, y, ...], @func)
+function [F] = RungeKutta5(funct, tspan, f0) %call RungeKutta5(@func, double (like 1:20 sec), double[x, y, ...])
 % RUNGEKUTTA5 5th order Runge-Kutta, works with scalers and vectors
 %input -> h is integration small inc
 %input -> s is <x,y> between points (can be vec)
