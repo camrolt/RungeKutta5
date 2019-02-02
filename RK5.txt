@@ -1,0 +1,12 @@
+Feel free to use this code for any work, should work simmilar to ode45() in matlab (same inputs and such).
+The test code is just a script that runs the function.
+
+Just 2 simple request if you use this or any derivitive code of this:
+
+1. Cite me (Camden Rolt @UMass Lowell) for the code.
+
+2. Please refrence this paper and site this paper where the coefficents come from if you happen to use this in a publication:
+
+https://ejde.math.txstate.edu/conf-proc/02/g1/goeken.pdf
+
+Thanks!
